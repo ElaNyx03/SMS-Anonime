@@ -94,7 +94,7 @@ grazie!!!
 <div align="center">
 
 <img align="center" title="Github" alt="Github" width="200px" src="1701192416682.png" /> 
-<h6>𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 ::: ElaNyx :::</h6>
+<h5>𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 ::: ElaNyx :::</h5>
 <img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="30px">  
 
 </div>
