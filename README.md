@@ -38,7 +38,7 @@ grazie!!!
 
     pip install requests
 
-    git clone https://github.com/IRYNA0308/SMS-Anonime.git
+    git clone https://github.com/ElaNyx03/SMS-Anonime.git
 
     ls
 
@@ -58,7 +58,7 @@ grazie!!!
 
     sudo apt install python3 -y 
 
-    git clone https://github.com/IRYNA0308/SMS-Anonime.git
+    git clone  https://github.com/ElaNyx03/SMS-Anonime.git
 
     ls
 
